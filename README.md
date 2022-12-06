@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 , I'm George
+# I'm a Computer Science Student 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning MEARN Stack
+- 📫 How to reach me: g.morkos2001@gmail.com - gm1362@fayoum.edu.eg
+
 
 <!--
 **George-mFF4G/George-mFF4G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
