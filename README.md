@@ -2,7 +2,7 @@
 # I'm a Computer Science Student 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning MEARN Stack
-- 📫 How to reach me: g.morkos2001@gmail.com - gm1362@fayoum.edu.eg
+- 📫 How to reach me: gm1362@fayoum.edu.eg - g.morkos2001@gmail.com
 
 
 <!--
